@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<student name = "Ivanov Ivan">
+		<curriculum name = "J2EE Developer">
+			<start_date>10/03/2018</start_date>
+			<courses>
+				<course>
+					<course_name>Технология Java Servlets</course_name>
+					<duration>16</duration>
+				</course>
+				<course>
+					<course_name>Struts Framework</course_name>
+					<duration>24</duration>
+				</course>
+			</courses>
+		</curriculum>
+	</student>
+	<student name = "Petrov Petr">
+		<curriculum name = "Java Developer">
+			<start_date>17/03/2018</start_date>
+			<courses>
+				<course>
+					<course_name>Обзор технологий Java</course_name>
+					<duration>8</duration>
+				</course>
+				<course>
+					<course_name>Библиотека JFC/Swing</course_name>
+					<duration>16</duration>
+				</course>
+				<course>
+					<course_name>Технология JDBC</course_name>
+					<duration>16</duration>
+				</course>
+			</courses>
+		</curriculum>
+	</student>
+	<student name = "Sidorov Sidor">
+		<curriculum name = "Java Developer">
+			<start_date>15/03/2018</start_date>
+			<courses>
+				<course>
+					<course_name>Spring MVC Framework</course_name>
+					<duration>24</duration>
+				</course>
+				<course>
+					<course_name>Библиотека JFC/Swing</course_name>
+					<duration>10</duration>
+				</course>
+				<course>
+					<course_name>Технология JDBC</course_name>
+					<duration>9</duration>
+				</course>
+			</courses>
+		</curriculum>
+	</student>
+</configuration>
